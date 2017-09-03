@@ -1,8 +1,8 @@
 ## Welcome to cray-z8studios!
 
-You can use the [editor on GitHub](https://github.com/cray-z8studios/cray-z8studios.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello!
+This is the current mainpage for cray-z8studios! We are an organization of friends that works on making games together, sometimes they
+are jokes, other times we put full on effort into it!
 
 ### Markdown
 
